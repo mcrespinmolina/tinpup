@@ -1,0 +1,148 @@
+#titulo {
+    background-color: hsl(337, 74%, 67%);
+    color: #ffffff
+}
+
+
+
+h1 {
+    font-family: 'Helvetica', sans-serif;
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.1;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3.0rem;
+    font-weight: 800;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+p {
+    color: rgb(44, 44, 44);
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+body {
+    font-family: monospace;
+}
+
+.img-testimonio {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.navbar {
+    padding-bottom: 0 0 4.5rem;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: 'Montserrat-Light', sans-serif;
+    font-weight: 100;
+}
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+
+
+.title-image {
+    width: 60%;
+    transform: rotate(25deg);
+    float: right;
+}
+
+#caracteristicas {
+    padding: 7% 15%;
+    background-color: #fff;
+ position: relative;
+}
+
+#testimonios {
+    text-align: center;
+    background-color: #d1143d;
+    color: #fff;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+#prensa {
+    background-color: #ff008c;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+#precios {
+    padding: 100px;
+    text-align: center;
+}
+
+#cta{
+    background-color: #ee0cb5;
+    color: #fff;
+    padding: 7% 15%;
+    text-align: center;
+   }
+.precios-col {
+    padding: 3% 2%;
+   }
+
+.caja-caracteristica {
+    text-align: center;
+    padding: 5%;
+}
+
+.logo-prensa {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+.icon {
+    font-size: 5rem;
+    color: #e9399a;
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: #fc0f85;
+}
+
+
+    .title-image {
+    position: static;
+    transform: rotate(0);
+    }
+
+   #footer {
+
+    padding: 7% 15%;
+     text-align: center;
+   }
+
+   .social-icon{
+    margin: 20px 10px;
+   }
